@@ -1,0 +1,23 @@
+body{
+    background-position:center;
+}
+#heading{
+    margin-top: 0%;
+    width:100%;
+    font-size: 30px;
+    font-family: 'Anton', sans-serif;
+}
+#note{
+    font-size: 20px!important;
+    color: black;
+}
+.speaker_right{
+    float:right;
+}
+.speaker_left{
+    float:left;
+}
+img{
+    height: 200px;
+    margin-top: 100px;
+}
